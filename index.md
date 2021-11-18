@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Projet d'extension immobilière pharaonique à Calevoet
 
-You can use the [editor on GitHub](https://github.com/calevoet1180/extension/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Chers habitants de Calevoet,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nous proposons une opposition à un projet immobilier à proximité immédiate des immeubles du projet des Hauts-Prés à Uccle Calevoet.
 
-### Markdown
+Une demande de permis a été déposée pour un projet titanesque, juste à côté des Hauts-Prés. Outre sa taille pharaonique, cette demande de permis ne respecte pas les normes en vigueur et propose dès lors des dérogations inacceptables.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nous avons tous la possibilité de faire part de nos remarques à l'urbanisme avant le 23 novembre.
 
-```markdown
-Syntax highlighted code block
+Au plus de personnes réagissent par rapport à cette demande, au plus nous aurons de chances d'obtenir un rejet du permis de construire tel que proposé actuellement. 
+Nous souhaitons vivement un projet à taille humaine, respectueux de l'environnement et des normes urbanistiques.
 
-# Header 1
-## Header 2
-### Header 3
+Nous vous proposons d'envoyer vos remarques à l'urbanisme (mail = info.urbanisme@uccle.brussels) avant le 23/11.
 
-- Bulleted
-- List
+Vous pouvez envoyer:
+- soit votre propre lettre
+- soit la lettre type proposée en annexe, en traitant bien les parties en jaune : compléter vos coordonnées et éliminer l'option non-retenue quant à votre présence ou absence à la commission de concertation du 8 décembre, en journée. 
 
-1. Numbered
-2. List
+Nous joignons également un PDF qui donne quelques explications sur les 4 points qui nous semblent inacceptables.
 
-**Bold** and _Italic_ and `Code` text
+Étant donné que le nombre de réactions individuelles est très important, nous proposons aux propriétaires non-occupants de faire suivre ce courrier vers leurs locataires, puisqu'ils sont aussi concernés par ce projet.  
 
-[Link](url) and ![Image](src)
-```
+En espérant pouvoir compter sur votre soutien,
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/calevoet1180/extension/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Cordialement,
