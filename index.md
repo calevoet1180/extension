@@ -18,6 +18,8 @@ Vous pouvez envoyer:
 - soit la lettre type proposée en annexe, en traitant bien les parties en jaune : compléter vos coordonnées et éliminer l'option non-retenue quant à votre présence ou absence à la commission de concertation du 8 décembre, en journée. 
 
 Nous joignons également un PDF qui donne quelques explications sur les 4 points qui nous semblent inacceptables.
+[résumé 4 points d'opposition au projet.pdf](https://github.com/calevoet1180/extension/files/7562458/resume.4.points.d.opposition.au.projet.pdf)
+
 
 Étant donné que le nombre de réactions individuelles est très important, nous proposons aux propriétaires non-occupants de faire suivre ce courrier vers leurs locataires, puisqu'ils sont aussi concernés par ce projet.  
 
