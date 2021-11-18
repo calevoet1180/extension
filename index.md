@@ -16,7 +16,7 @@ Nous vous proposons d'envoyer vos remarques à l'urbanisme (mail = info.urbanism
 Vous pouvez envoyer:
 - soit votre propre lettre
 - soit la lettre type proposée ici: [lettre type - demande permis 16-PFD-1786113.docx](https://github.com/calevoet1180/extension/files/7562465/lettre.type.-.demande.permis.16-PFD-1786113.docx)
-), en traitant bien les parties en jaune : compléter vos coordonnées et éliminer l'option non-retenue quant à votre présence ou absence à la commission de concertation du 8 décembre, en journée. 
+, en traitant bien les parties en jaune : compléter vos coordonnées et éliminer l'option non-retenue quant à votre présence ou absence à la commission de concertation du 8 décembre, en journée. 
 
 Nous joignons également un PDF qui donne quelques explications sur les 4 points qui nous semblent inacceptables:
 [résumé 4 points d'opposition au projet.pdf](https://github.com/calevoet1180/extension/files/7562458/resume.4.points.d.opposition.au.projet.pdf)
