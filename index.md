@@ -11,7 +11,7 @@ Nous avons tous la possibilité de faire part de nos remarques à l'urbanisme av
 Au plus de personnes réagissent par rapport à cette demande, au plus nous aurons de chances d'obtenir un rejet du permis de construire tel que proposé actuellement. 
 Nous souhaitons vivement un projet à taille humaine, respectueux de l'environnement et des normes urbanistiques.
 
-Nous vous proposons d'envoyer vos remarques à l'urbanisme (mail = info.urbanisme@uccle.brussels) avant le 23/11.
+Nous vous proposons d'envoyer vos remarques à l'urbanisme (mail = [info.urbanisme@uccle.brussels](mailto:info.urbanisme@uccle.brussels) ) avant le 23/11.
 
 Vous pouvez envoyer:
 - soit votre propre lettre
